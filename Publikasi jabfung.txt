@@ -2,5 +2,8 @@ RENCANA JABFUNG:
 
 Jurnal penelitian Agustus
   *syarat sinta 3
+  *sebagai penulis pertama
+  *publish URL cepat.
+  *Review lancar.
 Penelitian IoT di Bulan Juni
   *deteksi B3
