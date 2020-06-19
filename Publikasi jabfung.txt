@@ -2,11 +2,12 @@ RENCANA JABFUNG:
 
 Jurnal penelitian Agustus
   *syarat sinta 3
+    #Jurnal Edsense Multimedia UPI
     #Jurnal Polindra
     #Jurnal Teknik Elektro dan Informatika
   *sebagai penulis pertama
   *publish URL cepat.
-  *Review lancar.
+  
 Penelitian IoT di Bulan Juni
   *deteksi B3
   *beli perangkat IoT untuk belajar awal
