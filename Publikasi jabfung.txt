@@ -7,3 +7,4 @@ Jurnal penelitian Agustus
   *Review lancar.
 Penelitian IoT di Bulan Juni
   *deteksi B3
+  *beli perangkat IoT untuk belajar awal
